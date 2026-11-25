@@ -1,5 +1,5 @@
 # 1984 - M405F - wbsps - module - m405f - test meter.jpg
-Wiki page: [M405F](../../../PAGES/M405F.md)
+Wiki page: [M405F](../../../../PAGES/M405F.md)
 
 
 - **Year:** 1984 (module estimate (manual_issue))
@@ -31,7 +31,7 @@ WBS M4osf
 
 ```json
 {
- "file": "Modules/METER/M405F/1984 - M405F - wbsps - module - m405f - test meter.jpg",
+ "file": "Modules/METER/M405F/PHOTOS/1984 - M405F - wbsps - module - m405f - test meter.jpg",
  "sha256": "470eea37633ae8b9de5f6875db4fbcd23c86f7fb02551eebd9ba99fc6ad1f2e7",
  "kind": "module",
  "models": [
