@@ -13,6 +13,25 @@ Ward-Beck Systems M405F, 1984|17. Wiki page: [M405F on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 10 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1984 - M405F - 021.jpg](MANUALS/1984%20-%20M405F%20-%20021.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Output levels** |  |
+| &nbsp;&nbsp;Headset output | +8 dBm nominal into reference) +24 dBm max 600 ohm load for |
+| **Speaker output** | watts into |
+| **Ohms max** |  |
+| &nbsp;&nbsp;Power requirements | 105 to 125 vol t5, 50/60 Hz 30 Va. |
+| **Ambient temperature** | %c to 608c |
+| **Dimensions** | 19&quot; wide (483 mm 10&quot; deep 3-1/2&quot; high. 254 mm 89 mm) |
+| **Weight** | 12 Ib _ (5.5 kg.) |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

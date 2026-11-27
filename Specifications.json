@@ -1,0 +1,112 @@
+{
+ "module": "M405F",
+ "title": "M4O5F EXTENDED RANGE vu METER",
+ "source": {
+  "file": "MANUALS/1984 - M405F - 021.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "",
+   "items": [
+    {
+     "name": "Headset output",
+     "text": "+8 dBm nominal into reference) +24 dBm max 600 ohm load for",
+     "quantities": [
+      {
+       "value": 8,
+       "unit": "dBm"
+      },
+      {
+       "value": 24,
+       "unit": "dBm"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      }
+     ],
+     "key": "headset_output"
+    }
+   ]
+  },
+  {
+   "name": "Speaker output",
+   "key": "speaker_output",
+   "text": "watts into"
+  },
+  {
+   "name": "Ohms max",
+   "key": "ohms_max",
+   "text": "",
+   "items": [
+    {
+     "name": "Power requirements",
+     "text": "105 to 125 vol t5, 50/60 Hz 30 Va.",
+     "quantities": [
+      {
+       "value": 60,
+       "unit": "Hz"
+      },
+      {
+       "value": 30,
+       "unit": "Va"
+      }
+     ],
+     "key": "power_requirement"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "%c to 608c"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "19\" wide (483 mm 10\" deep 3-1/2\" high. 254 mm 89 mm)",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "\""
+    },
+    {
+     "value": 483,
+     "unit": "mm"
+    },
+    {
+     "value": 10,
+     "unit": "\""
+    },
+    {
+     "value": 2,
+     "unit": "\""
+    },
+    {
+     "value": 254,
+     "unit": "mm"
+    },
+    {
+     "value": 89,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "12 Ib _ (5.5 kg.)",
+   "quantities": [
+    {
+     "value": 5.5,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}
