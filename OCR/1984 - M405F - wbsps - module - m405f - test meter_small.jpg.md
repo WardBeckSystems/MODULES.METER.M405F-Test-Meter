@@ -1,5 +1,5 @@
 # 1984 - M405F - wbsps - module - m405f - test meter_small.jpg
-Wiki page: [M405F](../../../../PAGES/M405F.md)
+Wiki page: [M405F](../)
 
 
 - **Year:** 1984 (module estimate (manual_issue))

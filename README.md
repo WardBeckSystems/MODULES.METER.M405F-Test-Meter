@@ -1,6 +1,6 @@
 # M405F Test Meter · Meter
 
-Ward-Beck Systems M405F, 1984|17. Wiki page: [M405F on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M405F.html)
+Ward-Beck Systems M405F, 1984|17. Wiki page: [M405F on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405F-Test-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|
